@@ -1,0 +1,242 @@
+{
+  "home1": {
+    "h1": "Fixing. You're relaxing.",
+    "link": "Order a service"
+  },
+  "home2": {
+    "h1": "How can we help you today?",
+    "h2": "Let's get started. Select a service to make an appointment"
+  },
+  "home3": {
+    "h1": "Why we were chosen",
+    "h2": "Find out what makes us different",
+    "card1": {
+      "h1": "Service will be on the same day",
+      "p": "We understand that emergencies can happen at any moment. That's why we strive to provide the fastest service on the market."
+    },
+    "card2": {
+      "h1": "Unified help",
+      "p": "We listen to your feedback and constantly update our portfolio of services to meet the needs of your home."
+    },
+    "card3": {
+      "h1": "Efficient technology",
+      "p": "We design our digital solutions to provide you with an enjoyable experience. For your convenience, you can manage all your repair and maintenance orders online."
+    }
+  },
+  "about1": {
+    "h1": "Reliable consultant for your home needs"
+  },
+  "about2": {
+    "h4": "Home",
+    "h4span": "About us",
+    "h2": "This is a nationwide network of home maintenance experts.",
+    "p": "We are committed to providing <<convenient, comprehensive>> and <<professional>> home services to <<families>> across the country. Homeowners can find contractors they <<trust>> to meet their appliance repair, heating and air conditioning needs , air quality, plumbing and electrical services."
+  },
+  "about3": {
+    "h2": "Nurulokh Nabijonov    | Executive Director",
+    "p": "We are 'determined' to 'provide' our customers the 'best' home 'services', 'on demand'. Our goal is to be the obvious choice for every family in the world."
+  },
+  "about4": {
+    "h2": "What drives us forward",
+    "p": "Help take care of everyone's most precious place - our home.",
+    "block1": {
+      "h3": "Our view",
+      "p": "This is a company for homeowners looking for professionals they can trust. Together we are a community of experienced contractors and homeowners who understand the value of good service and professional excellence."
+    },
+    "block2": {
+      "h3": "Our mission",
+      "p": "Our goal is to be the only company that homeowners have in mind when the need arises for home renovation by providing fast, reliable and quality services anytime, anywhere."
+    },
+    "block3": {
+      "h3": "Values",
+      "p": "Customer obsession. Scalability. Embrace change. Ownership. Sustainability. Execution."
+    }
+  },
+  "about5": {
+    "h2": "Nurulokh Nabijonov  | Founder and CEO",
+    "p": " Began work in 2021 and created a single electronic platform for the population of the country to use in the market of <<private>> services - <<World of Services.>>"
+  },
+  "adress": {
+    "h1": "Order a service",
+    "h3": "Select a service to make an appointment",
+    "h2": "Select an address",
+    "btns": {
+      "b1": "Get current position",
+      "b2": "Add address"
+    },
+    "modal1": {
+      "t": "Add new address",
+      "inputs": {
+        "input1label": "Street, house, square",
+        "input1placeholder": "Street, house, square",
+        "input2label": "Region",
+        "input2placeholder": "Region",
+        "back": "Back",
+        "continue": "Continue",
+        "fill": "Fill inputs"
+      }
+    }
+  },
+  "book": {
+    "h1": "Order a service",
+    "h3": "Select a service to make an appointment",
+    "formh1": "Order Confirmation",
+    "fomrlink": "Book now",
+    "one": "Service",
+    "two": "Service type",
+    "three": "Description",
+    "four": "Address",
+    "date": "Date"
+  },
+  "contact": {
+    "h1": "Order a service",
+    "h3": "Select a service to make an appointment",
+    "form": {
+      "h2": "user information",
+      "h3": "Contact information",
+      "input1l": "Name",
+      "input1pl": "Name",
+      "input2l": "Phone number",
+      "input2pl": "(99) 123-45-67",
+      "input3l": "Email",
+      "input3pl": "Email",
+      "continue": "Continue"
+    }
+  },
+  "date": {
+    "h1": "Order a service",
+    "h3": "Select a service to make an appointment",
+    "form": {
+      "h1": "Select date and time",
+      "h2": "Select a date",
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "nexttomorrow": "After tomorrow",
+      "time1": "8:00 - 12:00",
+      "time2": "12:00-17:00",
+      "time3": "17:00 - 20:00",
+      "continue": "Continue"
+    }
+  },
+  "description": {
+    "h1": "Order a service",
+    "h3": "Select a service to make an appointment",
+    "form": {
+      "h1": "Add description",
+      "label": "Tell us what happened",
+      "textarea": "The more information you provide, the faster your work will be.",
+      "skip": "Skip",
+      "continue": "Continue"
+    }
+  },
+  "footer": {
+    "h1": "Social network",
+    "h3": "Copyright © 2021  (33) 211 99 27.",
+    "h4": "Terms and Conditions Privacy Policy",
+    "devLink": "HBBH"
+  },
+  "information": {
+    "h1": "Order a service",
+    "h3": "Select a service to make an appointment",
+    "form": {
+      "h1": "Select type",
+      "noServicesh2": "Please select multiple services!!!",
+      "back": "Back"
+    }
+  },
+  "navbar": {
+    "link1": "Services",
+    "link2": "About us",
+    "link3": "Orders",
+    "link4": "Blogs",
+    "sublink1": "Home Appliances",
+    "sublink2": "Cleanup",
+    "sublink3": "Plumbing",
+    "sublink4": "Electric",
+    "sublink5": "Transport",
+    "btn": "Order a service"
+  },
+  "profile": {
+    "enter": "Register",
+    "h1": "User information",
+    "name": "Name",
+    "number": "Phone number",
+    "location": "Address",
+    "region": "region",
+    "city": "city",
+    "street": "street",
+    "type": "User type",
+    "edit": "Edit",
+    "change_password": "Change password",
+    "log_out": "Logout",
+    "delete": "Delete profile",
+    "question_log_out": "Logout?",
+    "close": "Back",
+    "question_delete": "Do you want to delete the profile?",
+    "change_pass": "Change password",
+    "current": "Current",
+    "new": "new",
+    "confirm": "Confirm"
+  },
+  "register": {
+    "h1": "Registration",
+    "profile_picture": "Porifile Picture",
+    "email": "Email",
+    "first_name": "Name",
+    "last_name": "last name",
+    "password": "Password",
+    "confirm": "Confirm",
+    "number": "Phone number",
+    "region": "Region",
+    "city": "Shahar",
+    "street": "street",
+    "submit": "Confirm",
+    "already_have_account": "Do you have an account?",
+    "signin": "Sign in",
+    "code": "Enter the code we sent"
+  },
+  "signin": {
+    "h1": "Account access",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign in",
+    "forgot_pass": "Forgot your password?",
+    "incorrect": "email or password is incorrect"
+  },
+  "forgot": {
+    "h1": "Update password",
+    "email": "Email",
+    "send": "Send",
+    "incorrect": "email is incorrect",
+    "password": "Password",
+    "confirm": "Confirm",
+    "changepass": "Change password"
+  },
+  "services": {
+    "h1": "Order a service",
+    "h2": "Select a service to make an appointment"
+  },
+  "order": {
+    "h1": "Orders",
+    "h3": "Search for your order by phone number!",
+    "inputLabel": "Search by phone number",
+    "inputPlaceholder": "Please enter at least 7 digits",
+    "span1": "Service",
+    "span2": "Information",
+    "span3": "Service Type",
+    "span4": "Date",
+    "span5": "Time",
+    "confirm1": "Accepted",
+    "confirm12": "Waiting",
+    "confirm2": "A worker has been sent",
+    "confirm3": "Done",
+    "btn1": "Search",
+    "btn2": "Search"
+  },
+  "blog": {
+    "h1": "Blog",
+    "button": "View blog",
+    "back": "Back",
+    "created": "Date"
+  }
+}

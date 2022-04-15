@@ -1,0 +1,241 @@
+{
+  "home1": {
+    "h1": "Biz buni tuzatamiz. Siz dam olasiz.",
+    "link": "Xizmatga buyurtma bering"
+  },
+  "home2": {
+    "h1": "Bugun sizga qanday yordam bera olamiz?",
+    "h2": "Boshlaymiz. Uchrashuvni belgilash uchun xizmatni tanlang"
+  },
+  "home3": {
+    "h1": "Boshlaymiz. Uchrashuvni belgilash uchun xizmatni tanlang",
+    "h2": "Bizni ustun jihatimizni bilib oling",
+    "card1": {
+      "h1": "Xuddi o‘sha kungi xizmatni amalga oshiramiz",
+      "p": "Favqulodda vaziyatlar har qanday vaqtda yuz berishi mumkinligini tushunamiz. Shuning uchun biz bozorda eng tezkor xizmatni taqdim etishga intilamiz."
+    },
+    "card2": {
+      "h1": "Bitta yordam",
+      "p": "Biz sizning fikr-mulohazalaringizni tinglaymiz va uyimiz ehtiyojlarini qondirish uchun xizmatlar portfelimizni doimiy ravishda yangilab turamiz."
+    },
+    "card3": {
+      "h1": "Samarali texnologiya",
+      "p": "Sizga yoqimli dam olishni taʼminlash uchun raqamli echimlarimizni ishlab chiqamiz. Sizga qulaylik uchun siz barcha taʼmirlash va taʼmirlash buyurtmalarini Internet orqali boshqarishingiz mumkin."
+    }
+  },
+  "about1": {
+    "h1": "Uy extiyojlari uchuni ishonchli maslahat"
+  },
+  "about2": {
+    "h4": "Uy",
+    "h4span": "Biz haqimizda",
+    "h2": " Bu uyni taʼmirlash bo‘yicha mutaxassislarning butun mamlakat bo‘ylab tarmog‘i.",
+    "p": "Biz butun mamlakat bo‘ylab «oilalarga” uy sharoitida «qulay, keng qamrovli” va «professional” xizmatlarni taqdim etishga intilamiz, uy egalari jihozlarni taʼmirlash, isitish va havoni tozalash, havo sifati, sanitariya-tesisat va elektr taʼminotiga bo‘lgan ehtiyojlarini qondirish uchun «ishonadigan” pudratchilarni topishlari mumkin. xizmatlar."
+  },
+  "about3": {
+    "h2": "Nurulokh Nabijonov |    Ijrochi direktori",
+    "p": "Biz mijozlarimizga «talab bo‘yicha”, «eng yaxshi” uy «xizmatlari” ni «taqdim etish” uchun «qatʼiymiz”. Bizning maqsadimiz dunyodagi har qanday oila uchun aniq tanlov bo‘lishdir."
+  },
+  "about4": {
+    "h2": "Bizni oldinga siljitadigan narsa",
+    "p": "Barchamiz uchun eng qadrli joy - uyimiz haqida g‘amxo‘rlik qilishimizga yordam bering.",
+    "block1": {
+      "h3": "Bizning qarashimiz",
+      "p": "Bu ular ishonishi mumkin bo‘lgan mutaxassislarni izlayotgan uy egalari uchun kompaniya. Birgalikda biz yaxshi xizmat va professional mukammallikni qadrini tushunadigan tajribali pudratchilar va uy egalarining hamjamiyatini shakllantirmoqdamiz."
+    },
+    "block2": {
+      "h3": "Bizning vazifamiz",
+      "p": "Bizning maqsadimiz - uyni taʼmirlash zarurati tug‘ilganda uy egalari yodda tutadigan va istalgan vaqtda, istalgan joyda tezkor, ishonchli va sifatli xizmat ko‘rsatadigan yagona kompaniya bo‘lish."
+    },
+    "block3": {
+      "h3": "Qadriyatlar",
+      "p": "Mijozlar bilan obsesyon. Miqyosi. O‘zgarishlarni qabul qiling. Mulkchilik. Barqarorlik. Ijro."
+    }
+  },
+  "about5": {
+    "h2": "Founder and CEO",
+    "p": " Masʼuliyati cheklangan jamiyati 2021 yilda faoliyat yuritishni boshlab, mamlakat xududida axoli uchun “xususiy” xizmatlar bozoridan foydalanish uchun yagona turdagi elektron platforma – “Xizmatlar dunyosi” ni tashkil etgan. "
+  },
+  "adress": {
+    "h1": "Buyurtma berish",
+    "h3": "Uchrashuvni belgilash uchun xizmatni tanlang",
+    "h2": "Manzilni tanlang",
+    "btns": {
+      "b1": "Hozirgi joylashuvni tanlash",
+      "b2": " Manzil qo‘shing"
+    },
+    "modal1": {
+      "t": "Yangi manzil qo‘shing",
+      "inputs": {
+        "input1label": "Ko‘cha, uy, ",
+        "input1placeholder": "Ko‘cha, uy, ",
+        "input2label": "Tuman",
+        "input2placeholder": "Tuman",
+        "back": "Orqaga",
+        "continue": "Davom etish",
+        "fill": "To‘ldiring"
+      }
+    }
+  },
+  "book": {
+    "h1": "Buyurtma berish",
+    "h3": "Uchrashuvni belgilash uchun xizmatni tanlang",
+    "formh1": "Buyurtmani tasdiqlash",
+    "formlink": "Buyurtma qilish",
+    "one": "Hizmat",
+    "two": "Hizmat turi",
+    "three": "Tavsif",
+    "four": "Manzil",
+    "date": "Sana"
+  },
+  "contact": {
+    "h1": "Buyurtma berish",
+    "h3": "Uchrashuvni belgilash uchun xizmatni tanlang",
+    "form": {
+      "h2": "Foydalanuvchi haqida maʼlumot",
+      "h3": "Bog‘lanish uchun maʼlumot",
+      "input1l": "Ismingiz",
+      "input1pl": "Ismingiz",
+      "input2l": "Telefon raqami",
+      "input2pl": "(99) 123-45-67",
+      "input3l": "Elektron pochta",
+      "input3pl": "Email",
+      "continue": "Davom etish"
+    }
+  },
+  "date": {
+    "h1": "Buyurtma berish",
+    "h3": "Uchrashuvni belgilash uchun xizmatni tanlang",
+    "form": {
+      "h1": "Sana va vaqtni tanlang",
+      "h2": "Sanani tanlang ",
+      "today": "Bugun",
+      "tomorrow": "Ertaga",
+      "nexttomorrow": "Ertadan kegin",
+      "time1": "8:00 - 12:00",
+      "time2": "12: 00–17: 00",
+      "time3": "17:00 - 20:00",
+      "continue": "Davom etish"
+    }
+  },
+  "description": {
+    "h1": "Buyurtma berish",
+    "h3": "Uchrashuvni belgilash uchun xizmatni tanlang",
+    "form": {
+      "h1": "Tavsif qo`yish",
+      "label": "Bizga nima bo‘lganini aytib bering",
+      "textarea": "Qanchalik ko‘p maʼlumot taqdim esangiz, ishingiz tezroq bo‘ladi.",
+      "skip": "O`tkazib yuborish",
+      "continue": "Davom etish"
+    }
+  },
+  "footer": {
+    "h1": "Ijtimoiy tarmoq",
+    "h3": "Copyright © 2021  (33) 211 99 27.",
+    "h4": "Terms and Conditions Privacy Policy",
+    "devLink": ""
+  },
+  "information": {
+    "h1": "Buyurtma berish",
+    "h3": "Uchrashuvni belgilash uchun xizmatni tanlang",
+    "form": {
+      "h1": "Hizmat Turini tanlang",
+      "noServicesh2": "Iltimos, bir nechta xizmatlarni tanlang !!!",
+      "back": "Orqaga"
+    }
+  },
+  "navbar": {
+    "link1": "Xizmatlar",
+    "link2": "Biz xaqimizda",
+    "link3": "Buyurtmalar",
+    "link4": "Blog",
+    "sublink1": "Maishiy texnika",
+    "sublink2": "Tozalash",
+    "sublink3": "santexnika",
+    "sublink4": "Elektroenergiye",
+    "sublink5": "Yuk tashish",
+    "btn": "Buyurtma berish"
+  },
+  "profile": {
+    "enter": "Ro'yxatga otish",
+    "h1": "Foydalanuvchi ma'lumotlari",
+    "name": "Ism",
+    "number": "Telefon raqami",
+    "location": "Manzil",
+    "region": "viloyat",
+    "city": "shaxar",
+    "street": "ko`cha",
+    "type": "Foydalanuvchi turi",
+    "edit": "Taxrirlash",
+    "change_password": "Passwordni o`zgartirish",
+    "log_out": "Chiqish",
+    "delete": "Profilni o`chirish",
+    "question_log_out": "Chiqishni hohlaysizmi?",
+    "close": "Orqaga",
+    "question_delete": "Profilni o`chirishni hohlaysizmi?",
+    "change_pass": "Passwordni o`zgartirish",
+    "current": "Xozirgi",
+    "new": "Yangi",
+    "confirm": "Tasdiqlash"
+  },
+  "register": {
+    "h1": "Ro`yhatdan o`tish",
+    "profile_picture": "Porifile rasm",
+    "email": "Email",
+    "first_name": "Ism",
+    "last_name": "Familya",
+    "password": "Password",
+    "confirm": "Tasdiqlash",
+    "number": "Telefon raqami",
+    "region": "Viloyat",
+    "city": "Shaxar",
+    "street": "Ko`cha",
+    "submit": "Tasdiqlash",
+    "already_have_account": "Akkaountingiz bormi?",
+    "signin": "Kirish",
+    "code": "Biz yuborgan kodni kiriting"
+  },
+  "signin": {
+    "h1": "Akkauntga kirish",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Kirish",
+    "forgot_pass": "Passwordni unutdingizmi?",
+    "incorrect": "email yoki password noto`g`ri"
+  },
+  "forgot": {
+    "h1": "Parolni yangilash",
+    "email": "Email",
+    "send": "Yuborish",
+    "incorrect": "email noto`g`ri",
+    "password": "Password",
+    "confirm": "Tasdiqlash",
+    "changepass": "Passwordni o  zgartiish"
+  },
+  "services": {
+    "h1": "Buyurtma berish",
+    "h2": "Uchrashuvni belgilash uchun xizmatni tanlang"
+  },
+  "order": {
+    "h1": "Buyurtmalar",
+    "h3": "Buyurtmani Telefon raqamingiz orqali qidiring!",
+    "inputLabel": "Buyurtmani Telefon raqamingiz orqali qidiring!",
+    "span1": "Xizmat",
+    "span2": "Ma`lumot",
+    "span3": "Xizmat turi",
+    "span4": "Kuni",
+    "span5": "Vaqti",
+    "confirm1": "Qabul qilindi",
+    "confirm12": "Kutilmoqda",
+    "confirm2": "Ishchi yuborildi",
+    "confirm3": "Tugatildi",
+    "btn1": "Qidirish",
+    "btn2": "Qidirish"
+  },
+  "blog": {
+    "h1": "Blog",
+    "button": "Blogni ko`rish",
+    "back": "Orqaga",
+    "created": "Sana"
+  }
+}

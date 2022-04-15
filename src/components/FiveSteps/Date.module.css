@@ -1,0 +1,197 @@
+.main {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #fff;
+  padding-top: 120px;
+  margin-bottom: 100px;
+}
+.container {
+  width: 90%;
+  margin: auto;
+  height: 100%;
+}
+.container > h1 {
+  font-size: 48px;
+  text-align: center;
+  color: #000000;
+  font-family: "DM Sans", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 30px auto;
+  padding: 0;
+  letter-spacing: 0.02em;
+}
+.container > h3 {
+  color: #818190;
+  font-size: 24px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  font-weight: 200;
+  margin-bottom: 35px;
+}
+.form {
+  background-color: #f3f3f9;
+  padding: 30px 10px;
+  border-radius: 30px;
+  text-align: center;
+}
+.form > h1 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  color: #000000;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 0.02em;
+  margin-bottom: 30px;
+}
+.form > h2 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 100;
+  letter-spacing: 1.2px;
+  color: #818190;
+}
+.fields {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.date {
+  width: 100%;
+  min-height: 80px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+.date h3 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 22px;
+  font-weight: 200;
+  color: #000000;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 0.02em;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.date input {
+  border: none;
+  outline: none;
+  height: 30px;
+  width: 200px;
+  border-radius: 10px;
+  padding: 5px 8px;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  font-family: "DM Sans", sans-serif;
+  margin-bottom: 40px;
+  opacity: 0.8;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  cursor: pointer;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  margin-left: 12px;
+  margin-right: 12px;
+  width: calc(33.3333333333% - 24px);
+  margin-top: 12px;
+  margin-bottom: 12px;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 11px;
+  border: 2px solid #ffffff;
+  color: #000000;
+  padding: 22px 27px;
+  text-decoration: none;
+}
+.card h3 {
+  font-family: " DM Sans", sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #888894;
+  text-transform: capitalize;
+  font-weight: 400;
+  margin-left: 5%;
+}
+
+.card svg {
+  width: 35px;
+  height: 35px;
+  fill: #2c37b7;
+}
+.card:hover {
+  border: 2px solid #2c37b7;
+}
+.card:hover h3 {
+  color: #000;
+}
+.active {
+  border: 2px solid #2c37b7;
+}
+.active h3 {
+  color: #000 !important;
+}
+
+.form .button {
+  display: inline-block;
+  font-size: 16px;
+  line-height: 1;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 16px 22px;
+  font-family: "DM Sans", sans-serif;
+  border-width: 1px;
+  border-style: solid;
+  letter-spacing: 0.02em;
+  transition: background 0.2s, border-color 0.2s, -webkit-box-shadow 0.2s;
+  transition: box-shadow 0.2s, background 0.2s, border-color 0.2s;
+  margin-bottom: 20px;
+  color: #ffffff;
+  border-color: #2c37b7;
+  background-color: #2c37b7;
+  cursor: pointer;
+}
+.form .button:hover {
+  color: #2c37b7;
+  border-color: #ffffff;
+  background-color: #ffffff;
+}
+@media screen and (max-width: 900px) {
+  .container > h1 {
+    margin: 15px auto;
+    font-size: 36px;
+  }
+  .container > h3 {
+    font-size: 20px;
+  }
+  .card {
+    width: -webkit-calc(50% - 24px);
+    width: calc(50% - 24px);
+  }
+}
+@media screen and (max-width: 660px) {
+  .container > h3 {
+    font-size: 18px;
+  }
+  .card {
+    width: -webkit-calc(100% - 24px);
+    width: calc(100% - 24px);
+    height: auto;
+    padding: 12px 40px;
+    justify-content: space-between;
+  }
+}
